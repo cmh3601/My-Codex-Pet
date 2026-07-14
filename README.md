@@ -12,9 +12,9 @@
 
 ### 超級賽亞人
 
-以經典超級賽亞人造型為靈感的 Q 版戰士。Codex 執行任務時會蓄力並發射龜派氣功。
+以經典超級賽亞人造型為靈感的 Q 版戰士。受 Codex Sprite v2 固定的 idle 動畫節奏限制，寵物在待機與執行期間都會約每 6.6 秒蓄力並發射一次龜派氣功。
 
-![超級賽亞人執行動畫](previews/super-saiyan-running.gif)
+![超級賽亞人週期性龜派氣功動畫](previews/super-saiyan-running.gif)
 
 ## 安裝指南
 

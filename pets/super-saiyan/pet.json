@@ -1,7 +1,7 @@
 {
   "id": "super-saiyan",
   "displayName": "超級賽亞人",
-  "description": "以經典超級賽亞人造型為靈感的Q版戰士；Codex執行任務時會蓄力並發射龜派氣功。",
+  "description": "以經典超級賽亞人造型為靈感的Q版戰士；待機與執行期間約每6.6秒蓄力並發射一次龜派氣功。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
