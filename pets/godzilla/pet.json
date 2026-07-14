@@ -1,0 +1,7 @@
+{
+  "id": "godzilla",
+  "displayName": "哥吉拉",
+  "description": "一隻電影怪獸造型的Q版哥吉拉，Codex執行任務時會從口中噴射藍色輻射能量。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
